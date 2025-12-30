@@ -63,12 +63,12 @@ Served as the Client-side Product Owner and Technical Lead for the migration of 
 ## Education
 
 * **Master in Data Science** | Universidad Austral (In Progress, 2025-2027)
-* **Geodetic Engineering** | Universidad Central de Venezuela (Summa Cum Laude equivalent)
+* **Geodetic Engineering** | Universidad Central de Venezuela 
 
 ---
 
 ## Contact
 
-* **LinkedIn:** linkedin.com/in/kleandronunez
+* **LinkedIn:** [Link](https://www.linkedin.com/in/kleandronunez)
 
 _Open to discussing Data Science challenges, spatial analysis, and robust ML architectures._
