@@ -3,7 +3,7 @@
 
 ### My name is Keiver Nuñez | Data Scientist | Geospatial and Data enthusiast. 
 
-I am a Data Scientist with over 6 years of experience working with data, bridging the gap between complex raw data and strategic business decisions. My background in Geodetic Engineering, combined with a current Master's in Data Science, allows me to approach problems with strong mathematical rigor and a pragmatic business mindset.
+I am a Data Scientist with experience working with data, bridging the gap between complex raw data and strategic business decisions. My background in Geodetic Engineering, combined with a current Master's in Data Science, allows me to approach problems with strong mathematical rigor and a pragmatic business mindset.
 
 Currently, I focus on building Machine Learning models, working with data to drive performance in the AgTech sector, eager to explore the finance industry.
 
